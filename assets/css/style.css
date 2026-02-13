@@ -12658,7 +12658,7 @@ header.header-full-width.header--sticky.sticky {
   position: absolute;
   bottom: 140px;
   left: 0px;
-  font-size: 48px;
+  font-size: 40px;
   line-height: 0;
   -webkit-text-stroke: 1px var(--color-heading);
   color: transparent;
@@ -17778,7 +17778,7 @@ section.clients-testimonial-area {
 }
 @media only screen and (max-width: 479px) {
   .banner-one-main-wrapper .banner-right-content .banner-big-text-1 {
-    font-size: 46px;
+    font-size: 40px;
   }
 }
 .banner-one-main-wrapper .banner-right-content .banner-big-text-2 {
@@ -22776,6 +22776,7 @@ body.loaded {
   border-right: 2px solid var(--color-border);
   padding: 40px 0;
   display: inline-flex;
+  text-align: center;
   align-items: center;
   justify-content: center;
   width: 100%;
